@@ -1,0 +1,30 @@
+{
+  "name": "get-history",
+  "version": "1.0.0",
+  "description": "A tool for returning web traffic from specified user from a specified device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MadroxPrime/get-history.git"
+  },
+  "keywords": [
+    "CBE",
+    "Chrome",
+    "history",
+    "get-history"
+  ],
+  "author": "John E. Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadroxPrime/get-history/issues"
+  },
+  "homepage": "https://github.com/MadroxPrime/get-history#readme",
+  "dependencies": {
+    "copy-history": "file:///C:\\Users\\andersj5\\Desktop\\Programming\\Node\\ADServer\\custom modules\\copy-history",
+    "find-history": "file:///C:\\Users\\andersj5\\Desktop\\Programming\\Node\\ADServer\\custom modules\\find-history",
+    "read-history": "file:///C:\\Users\\andersj5\\Desktop\\Programming\\Node\\ADServer\\custom modules\\read-history"
+  }
+}
