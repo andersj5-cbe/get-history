@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/MadroxPrime/get-history#readme",
   "dependencies": {
-    "copy-history": "file:///C:\\Users\\andersj5\\Desktop\\Programming\\Node\\ADServer\\custom modules\\copy-history",
-    "find-history": "file:///C:\\Users\\andersj5\\Desktop\\Programming\\Node\\ADServer\\custom modules\\find-history",
-    "read-history": "file:///C:\\Users\\andersj5\\Desktop\\Programming\\Node\\ADServer\\custom modules\\read-history"
+    "copy-history": "git+ssh://git@github.com/andersj5-cbe/copy-history.git",
+    "find-history": "git+ssh://git@github.com/andersj5-cbe/find-history.git",
+    "read-history": "git+ssh://git@github.com/andersj5-cbe/read-history.git"
   }
 }
