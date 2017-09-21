@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/MadroxPrime/get-history.git"
+    "url": "git+ssh://git@github.com/andersj5-cbe/get-history.git"
   },
   "keywords": [
     "CBE",
