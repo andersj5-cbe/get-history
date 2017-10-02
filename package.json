@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/MadroxPrime/get-history#readme",
   "dependencies": {
-    "copy-history": "git+ssh://git@github.com/andersj5-cbe/copy-history.git",
-    "find-history": "git+ssh://git@github.com/andersj5-cbe/find-history.git",
-    "read-history": "git+ssh://git@github.com/andersj5-cbe/read-history.git"
+    "copy-history": "https://github.com/andersj5-cbe/copy-history.git",
+    "find-history": "https://github.com/andersj5-cbe/find-history.git",
+    "read-history": "https://github.com/andersj5-cbe/read-history.git"
   }
 }
